@@ -1,6 +1,3 @@
-import * as _ from "lodash";
-import { times } from "lodash";
-
 let implicitVar = 23; // implicit type inference
 // implicitVar = '23'; // ! illegal operation - wrong type
 
